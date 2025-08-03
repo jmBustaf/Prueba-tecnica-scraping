@@ -1,0 +1,7 @@
+# Entorno virtual
+venv/
+
+# Archivos temporales o binarios
+__pycache__/
+*.pyc
+*.pyo
